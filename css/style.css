@@ -1,11 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
-*{
-   margin: 0;
-   padding: 0;   
+:root {
+    --navbar-height: 2px;
 }
-:root{
-    --navbar-height:2px;
-}
-.navbar-wrapper{
-     display: flex; 
+
+.navbar-wrapper {
+    display: flex;
 }
